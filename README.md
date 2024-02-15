@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @omGazz
 
 
-Hi, I'm omGazz, an Italian Software developer. I work as a web developer in a cool company, I deal with both frontend and backend.
-I am also a university student of *data engineering*. Work and study is pretty hard... but funny :)
-
-feel free to contact me for anything at my [mail](mailto:omgazz89@gmail.com)
+Software development is my job and my passion. I love the javascript world, I love docker, I love clients, web or mobile makes no difference. I love doing things well, clean and clear. I'm a productive freak, I'm addicted to results
 
